@@ -5,6 +5,10 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminverwaltung", "Terminverwaltung\Terminverwaltung.csproj", "{EFD2403D-5B5F-4208-9D4E-0A6E844B4194}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Terminverwaltung.Entities", "Terminverwaltung.Entities\Terminverwaltung.Entities.csproj", "{9396ABAD-35EF-4FA2-AF4B-AC6C446CD9F8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Termineverwaltung.Data", "Termineverwaltung.Data\Termineverwaltung.Data.csproj", "{1FE709AD-F207-4E61-A66C-B579BC5DFC61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{EFD2403D-5B5F-4208-9D4E-0A6E844B4194}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EFD2403D-5B5F-4208-9D4E-0A6E844B4194}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EFD2403D-5B5F-4208-9D4E-0A6E844B4194}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9396ABAD-35EF-4FA2-AF4B-AC6C446CD9F8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9396ABAD-35EF-4FA2-AF4B-AC6C446CD9F8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9396ABAD-35EF-4FA2-AF4B-AC6C446CD9F8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9396ABAD-35EF-4FA2-AF4B-AC6C446CD9F8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1FE709AD-F207-4E61-A66C-B579BC5DFC61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FE709AD-F207-4E61-A66C-B579BC5DFC61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FE709AD-F207-4E61-A66C-B579BC5DFC61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FE709AD-F207-4E61-A66C-B579BC5DFC61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
